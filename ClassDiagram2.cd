@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MedicalDatabaseApplication.Appointment">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Appointments\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.AppointTime">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAgACAAIAAgACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Appointments\AppointTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.DocAvail">
+    <Position X="0.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Classes\Doc\DocAvail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.Doctor">
+    <Position X="11.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEBCAEAAIABQACEAEEACAAAFAAoAAEAKAAAADABAAAg=</HashCode>
+      <FileName>Classes\Doc\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.Doctors">
+    <Position X="8.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Doc\Doctors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.DocType">
+    <Position X="6" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAQAAAAEAABAAAAAAAAABAAAAAQAAAABAA=</HashCode>
+      <FileName>Classes\Doc\DocType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.Checker">
+    <Position X="9" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAAAAACAAAAAgAKAAAAoAAAAgAAAAAAAAAIA=</HashCode>
+      <FileName>Classes\Other\Checker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.DataGrab">
+    <Position X="6" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQgAgAAAAAIAAAQAAQAFAAAEAAAABAAAA=</HashCode>
+      <FileName>Classes\Other\DataGrab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.SQLHelper">
+    <Position X="8.25" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAIAAAIAAAAIAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Other\SQLHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.Patient">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gABhAEAAIQBQACAAEAAAAAAIAAIACEACAAAAKAAAICg=</HashCode>
+      <FileName>Classes\Patient\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MedicalDatabaseApplication.Patients">
+    <Position X="6" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Patient\Patients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
